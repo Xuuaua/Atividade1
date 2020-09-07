@@ -3,6 +3,7 @@ package poo.br.edu.unidesc.atividade1;
 //Atividade: Fizz Buzz - Vale 1 ponto de OAT
 //Professor: Wesley Queiroz
 //Materia: Programação orientada a objetos
+//Aluno: Vitor Hugo Da Costa Sousa
 
 /*          Escreva um programa em java (void main)
             que vai imprimir os números de de 0 a 100, com uma condição:
